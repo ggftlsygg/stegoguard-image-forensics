@@ -50,6 +50,8 @@ png_data = create_demo_png(width=300, height=300)
 
 if mode == "suspicious":
     png_data += b"\nCONFIDENTIAL: This is harmless demo hidden data for the StegoGuard lab.\n"
+if mode == "123456789"
+    png_data += b"\nPASSWORD: This is harmless demo hidden data for the StegoGuard lab.\n"
 
 Path("images/student_image.png").write_bytes(png_data)
 
