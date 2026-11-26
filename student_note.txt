@@ -1,1 +1,3 @@
 Nurgaliyev Batyrkhan
+
+StegoGuard is a GitHub Actions lab that generates a demo PNG and scans it for hidden data appended after the IEND chunk and for suspicious keywords.
