@@ -1,4 +1,4 @@
-name: StegoGuard Image Forensics
+name: StegoGuard – PNG Hidden Data Scan
 
 on:
   push:
