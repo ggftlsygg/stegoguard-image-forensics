@@ -2,6 +2,16 @@
 
 Detect appended data in a PNG file, interpret the scanner’s findings, and test a new keyword rule. Complete the lab in your own GitHub fork using the web browser.
 
+![StegoGuard](https://github.com/ggftlsygg/stegoguard-image-forensics/actions/workflows/stegoguard.yml/badge.svg)
+
+## Contents
+- [What you will learn](#what-you-will-learn)
+- [How the lab works](#how-the-lab-works)
+- [1. Run a clean baseline](#1-run-a-clean-baseline)
+- [2. Inspect a suspicious scan](#2-inspect-a-suspicious-scan)
+- [3. Test a new keyword rule](#3-test-a-new-keyword-rule)
+- [Submit your work](#submit-your-work)
+- 
 ## What you will learn
 
 - Use the PNG signature and the `IEND` chunk to explain where a PNG datastream begins and ends.
