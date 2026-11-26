@@ -4,7 +4,7 @@ import zlib
 
 mode = Path("lab_mode.txt").read_text(encoding="utf-8").strip().lower()
 
-if mode not in ["clean", "suspicious"]:
+if mode not in ["clean", "suspicious", "123456789"]:
     raise SystemExit("lab_mode.txt must contain either: clean or suspicious")
 
 Path("images").mkdir(exist_ok=True)
