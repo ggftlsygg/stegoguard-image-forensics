@@ -2,7 +2,7 @@
 
 Detect appended data in a PNG file, interpret the scanner’s findings, and test a new keyword rule. Complete the lab in your own GitHub fork using the web browser.
 
-![StegoGuard](https://github.com/ggftlsygg/stegoguard-image-forensics/actions/workflows/stegoguard.yml/badge.svg)
+![StegoGuard](https://github.com/ggftlsygg/stegoguard-image-forensics/actions/workflows/stegoguard.yml/badge.svg?branch=main)
 
 ## Contents
 - [What you will learn](#what-you-will-learn)
